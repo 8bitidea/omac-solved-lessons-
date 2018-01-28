@@ -2,7 +2,13 @@
 #One Million Arabic Coder (OMRC)
 #patch Full Stack Web Dev .1
 #Lisson 13 Problem Solving 
-#this is test no 22
+#Please note that i am sharing this code to 
+#find  the idea behined the problem not for
+#copy and pasting !
+#and i wish if you can find a mistake or ha
+#ve a better answer let me know or correct 
+#me please
+#thank you in advance for correcting me ;)
 #I'm Byte idea (Say Hi : 8bitidea@gmail.com)
 #-------------------------------------------
 
